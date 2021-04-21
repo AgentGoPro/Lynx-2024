@@ -1,0 +1,15 @@
+[{
+	"modid"        : "lynx",
+	"name"         : "Lynx 2021.1",
+	"description"  : "this is based",
+	"version"      : "",
+	"mcversion"    : "1.12.2-14.23.5.2772",
+	"url"          : "",
+	"updateUrl"    : "",
+	"authorList"   : [""],
+	"credits"      : "",
+	"logoFile"     : "wurst.png",
+	"screenshots"  : [],
+	"dependencies" : []
+
+}]
